@@ -4,7 +4,7 @@ This repository contains the complete collection of my undergraduate [Computer S
 
 ## Courses
 
-The courses that I took followed the Computer Science department's [undergraduate core curriculum][3] as well as the [Software Engineering track][4]'s curriculum. Here is the list of courses that are included in this repository:
+The courses that I took followed the Computer Science department's [undergraduate core curriculum][3] as well as the [Software Engineering track curriculum][4]. Here is the list of courses that are included in this repository:
 
 *   CS 180 - Problem Solving and Object-Oriented Programming
 *   CS 240 - Programming in C
