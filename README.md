@@ -8,7 +8,7 @@ The courses that I took followed the Computer Science department's [undergraduat
 
 * [CS 180 - Problem Solving and Object-Oriented Programming](https://www.cs.purdue.edu/homes/apm/courses/CS180Fall2010/)
 * [CS 182 - Foundations of Computer Science](https://web.archive.org/web/20110128072928/http://www.cs.purdue.edu/homes/spa/cs182.html)
-* [CS 240 - Programming in C](https://web.archive.org/web/20110204192103/http://www.cs.purdue.edu/homes/suresh/240-Spring2011/index.html)
+* [CS 240 - Programming in C](http://www.cs.purdue.edu/homes/suresh/240-Spring2011/index.html)
 * [CS 250 - Computer Architecture](https://web.archive.org/web/20111229063759/http://www.cs.purdue.edu/homes/cs250/)
 * [CS 251 - Data Structures and Algorithms](https://web.archive.org/web/20111227064127/http://www.cs.purdue.edu/homes/cs251/)
 * [CS 252 - Systems Programming](https://web.archive.org/web/20111208050548/http://www.cs.purdue.edu/homes/cs252/)
